@@ -85,7 +85,7 @@ class Signup extends Component {
                                 textDecoration: 'none',
                             }}
                         >
-                            Signin
+                            Sign-in
                         </Typography>
                     </Toolbar>
                 </Container>
